@@ -1,0 +1,19 @@
+{
+  "name": "wellington-water-take",
+  "version": "1.0.0",
+  "description": "Wellington Water Take consents data visualisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve"
+  },
+  "author": "Josh McArthur",
+  "license": "MIT",
+  "repository": "https://github.com/joshmcarthur/wellington-water-take-visualisation",
+  "dependencies": {
+    "@arcgis/core": "^4.19.3"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
